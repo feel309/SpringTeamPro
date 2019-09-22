@@ -36,7 +36,7 @@ IDE- 이클립스
 완료되었다는 메시지창이 뜨고 로그인 화면으로 이동한다.
 <img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65387572-8eef1c00-dd83-11e9-964e-5044628644f5.png">
 <img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65387579-a75f3680-dd83-11e9-963b-1ef36205f963.png">
-<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65387588-c362d800-dd83-11e9-8714-714201c544c2.png">
+<img width="600" alt="default" src="https://user-images.githubusercontent.com/36668707/65387588-c362d800-dd83-11e9-8714-714201c544c2.png">
 
 <hr>
 
