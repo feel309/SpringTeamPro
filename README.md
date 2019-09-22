@@ -20,7 +20,7 @@ DB– oracle 11g
 IDE- 이클립스
 
 <h3>DB설계</h3> 
-★이미지
+<img width="889" alt="default" src="https://user-images.githubusercontent.com/36668707/65387315-2606a480-dd81-11e9-801f-682d968d9502.png">
 
 <h3>구현기능</h3>
 
