@@ -34,9 +34,9 @@ IDE- 이클립스
 인증 확인이라는 것을 
 클릭하면 이메일 인증이 
 완료되었다는 메시지창이 뜨고 로그인 화면으로 이동한다.
-<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65387500-0bcdc600-dd83-11e9-9993-804aa5312b1e.png">
-<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65387509-2ef87580-dd83-11e9-9b08-b8b50da767f4.png">
-<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65387545-45063600-dd83-11e9-81a4-05bbdfc7db0e.png">
+<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65387572-8eef1c00-dd83-11e9-964e-5044628644f5.png">
+<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65387579-a75f3680-dd83-11e9-963b-1ef36205f963.png">
+<img width="500" alt="default" src="https://user-images.githubusercontent.com/36668707/65387588-c362d800-dd83-11e9-8714-714201c544c2.png">
 
 <hr>
 
