@@ -42,20 +42,23 @@ IDE- 이클립스
 
 <h3>유효성 검사</h3>
 직종, 질문유형, 제목과 내용 입력창이 비어있으면, 경고창이 뜸.
-★이미지
+<img width="600" alt="default" src="https://user-images.githubusercontent.com/36668707/65388538-dbd4f180-dd87-11e9-97dc-7be669adfad0.png">
+<img width="600" alt="default" src="https://user-images.githubusercontent.com/36668707/65388547-f4450c00-dd87-11e9-9b64-0f59b96e104b.png">
 <hr>
 
 <h3>AJAX 이용한 댓글 기능</h3>
 AJAX를 통해 아이디와 내용, 현재 날짜를 데이터베이스에 저장한다.
 그리고 저장이 성공했다면, 저장된 아이디, 내용, 현재날짜를 조회해서 댓글 영역 하단에 출력한다.
-★이미지
+<img width="600" alt="default" src="https://user-images.githubusercontent.com/36668707/65388580-3c642e80-dd88-11e9-9eb7-7f7d4112e248.png">
+
 <hr>
 
 <h3>페이징 처리</h3>
 DB에서 전체 리스트 중에서 10개를 받아와서 화면에 페이지를 나눠준다.
 질문들이 10개가 넘어가면 한 페이지씩 생성이 된다.
 페이지가 10개가 넘어가서 11페이지 이상이면 다음 버튼을 눌러서 페이지를 이동시킬 수 있다.
-★이미지
+<img width="600" alt="default" src="https://user-images.githubusercontent.com/36668707/65388625-7df4d980-dd88-11e9-83f5-a62af80c1d57.png">
+
 <hr>
 
 <h3>개선사항</h3> 
